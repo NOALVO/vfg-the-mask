@@ -1,0 +1,17 @@
+{
+  "name": "vfg-the-mask",
+  "version": "1.0.0",
+  "description": "vfg-the-mask",
+  "main": "VfgTheMask.vue",
+  "files": [ "VfgTheMask.vue" ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NOALVO/vfg-the-mask.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NOALVO/vfg-the-mask/issues"
+  },
+  "homepage": "https://github.com/NOALVO/vfg-the-mask#readme"
+}
